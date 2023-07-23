@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning (Decision Tree)
 
 A Decision Tree is a popular and widely used supervised machine learning algorithm that is primarily used for classification and regression tasks. It is a simple yet powerful tool for predictive modeling and is particularly favored for its interpretability and ease of understanding.
 
