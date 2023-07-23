@@ -1,7 +1,5 @@
-# html_projects
+# Machine Learning (Logistic Regression Multiclass Classification)
 
-In this repository, I store various Machine Learning Models in the form of projects
-Various Machine Learning Models projects are:
-1. Linear-Regression-Single-Variable
-2. Linear-Regression-Multiple-Variable
-3. 
+Logistic Regression can be extended to handle multiclass classification problems, where the target variable has more than two possible classes. There are two common approaches to achieving multiclass classification using logistic regression: one-vs-rest (also known as one-vs-all) and softmax regression (also known as multinomial logistic regression).
+
+Logistic Regression for multiclass classification is commonly used in natural language processing tasks, image classification, and other scenarios where the target variable has more than two possible classes.
