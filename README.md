@@ -1,4 +1,4 @@
-# html_projects
+# Machine Learning
 
 In this repository, I store various Machine Learning Models in the form of projects
 Various Machine Learning Models projects are:
